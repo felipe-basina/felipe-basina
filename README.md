@@ -1,5 +1,6 @@
-# Felipe Nascimento 🤘
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipebasina/)
+# Felipe Nascimento [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipebasina/)
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=felipe-basina" />
 
 ### Olá! Bem vindo ao meu perfil
 
@@ -10,8 +11,6 @@ Me considero em constante aprendizagem e sigo no caminho da melhoria contínua :
 - :green_heart:  Tecnologia
 - :eyeglasses:  Estudos e Aprendizagem
 - 🌱  Programação funcional (Clojure), DevOps, React, Python, Kotlin
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=felipe-basina" />
 
 <!--
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=felipe-basina&width=820" />
