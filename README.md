@@ -11,6 +11,7 @@ Me considero em constante aprendizagem e sigo no caminho da melhoria contínua :
 - :green_heart:  Tecnologia
 - :eyeglasses:  Estudos e Aprendizagem
 - 🌱  Programação funcional (Clojure), DevOps, React, Python, Kotlin
+- 🇫🇮  🇩🇪  🇬🇧
 
 <!--
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=felipe-basina&width=820" />
