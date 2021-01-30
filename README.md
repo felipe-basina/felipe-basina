@@ -13,7 +13,9 @@ Me considero em constante aprendizagem e sigo no caminho da melhoria contínua :
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=felipe-basina" />
 
+<!--
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=felipe-basina&width=820" />
+-->
 
 
 <!--
