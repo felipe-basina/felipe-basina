@@ -12,7 +12,7 @@ Me considero em constante aprendizagem e sigo no caminho da melhoria contínua :
 - :eyeglasses: Estudos e Aprendizagem
 - 🌱 Programação funcional (Clojure), DevOps, React, Python, Kotlin
 - 🦉 🇫🇮  🇩🇪  🇬🇧
-- 💬 Um pouco mais <a href="https://about.me/escapistabr" alt="aboutme" target="_blank">sobre mim</a>
+- 💬 Um pouco mais <a href="https://about.me/escapistabr" alt="aboutme" target="_blank" rel="noopener noreferrer">sobre mim</a>
 
 <!--
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=felipe-basina&width=820" />
