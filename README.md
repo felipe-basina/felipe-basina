@@ -9,7 +9,7 @@ Me considero em constante aprendizagem e sigo no caminho da melhoria contínua :
 - :green_heart: Tecnologia
 - :eyeglasses: Estudos e Aprendizagem
 - 🌱 Programação funcional (Clojure/ClojureScript), DevOps, React, Python, Kotlin
-- 🦉 🇫🇮  🇩🇪  🇬🇧
+- 🦉 🇫🇮  🇩🇪  🇮🇱 🇬🇧
 - 💬 Um pouco mais <a href="https://about.me/escapistabr" alt="aboutme" target="_blank" rel="noopener noreferrer">sobre mim</a>
 
 
